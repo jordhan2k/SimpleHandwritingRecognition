@@ -24,7 +24,7 @@ Recognized: "word"
 Probability: 0.9806370139122009
 ```
 
-![test](./data/line.png)
+![test](./data/line_1.jpg)
 
 ```
 > python main.py --img_file ../data/line.png
