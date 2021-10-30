@@ -27,10 +27,10 @@ Probability: 0.9806370139122009
 ![test](./data/line_1.jpg)
 
 ```
-> python main.py --img_file ../data/line.png
+> python main.py --img_file ../data/line_1.jpg
 Init with stored values from ../model/snapshot-13
-Recognized: "or work on line level"
-Probability: 0.6674373149871826
+Recognized: "I don't know you"
+Probability: 0.18701303005218506
 ```
 
 ## Command line arguments
